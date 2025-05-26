@@ -3,11 +3,13 @@
 
 This project is a **Streamlit dashboard** that predicts whether students will **pass or fail** based on their outcome scores using a machine learning model (XGBoost). It features interactive controls, clean visualizations, and Excel export functionality.
 
+Note: This is an initial prototype. The model and dashboard are still under development and require further improvements and optimization.
+
 ---
 
 ##Screenshot
 
-![App Screenshot]("![AI powered](https://github.com/user-attachments/assets/e7c4e5a7-f71a-4df2-b485-5827930e1a07)
+("![AI powered](https://github.com/user-attachments/assets/e7c4e5a7-f71a-4df2-b485-5827930e1a07)
 ")
 
 ---
