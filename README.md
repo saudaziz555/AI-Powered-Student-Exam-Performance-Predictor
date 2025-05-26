@@ -7,11 +7,9 @@ Note: This is a prototype version of the dashboard and model. It is still under 
 
 
 ---
+## Screenshot
+![AI powered](https://github.com/user-attachments/assets/e7c4e5a7-f71a-4df2-b485-5827930e1a07)
 
-##Screenshot
-
-("![AI powered](https://github.com/user-attachments/assets/e7c4e5a7-f71a-4df2-b485-5827930e1a07)
-")
 
 ---
 
@@ -81,6 +79,3 @@ Ensure your Excel file follows this format:
 3. Click "Retrain Model" to build a new prediction model.
 4. View metrics and visualizations on screen.
 5. Download the results using the "Download" button.
-
----
----
